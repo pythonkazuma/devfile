@@ -36,7 +36,7 @@ components:
         value: 'mongodb://localhost'
     endpoints:
       - name: 'quarkusdev'
-        port: 8081
+        port: 8080
 
   - alias: node-frontend-dev
     mountSources: true
