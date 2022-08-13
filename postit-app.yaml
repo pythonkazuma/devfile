@@ -35,7 +35,7 @@ components:
       - name: uri
         value: 'mongodb://localhost'
     endpoints:
-      - name: 'quarkus/dev'
+      - name: 'quarkus-dev'
         port: 8080
 
   - alias: node-frontend-dev
